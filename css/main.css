@@ -1,0 +1,120 @@
+#headerColor{
+	background-color: #FFD900;
+	color: #FFD900;
+}
+#nameColor{
+	color: #000;
+	background-color: #FFD900;
+	font-family: Sail;
+	font-weight: bold;
+	font-size: 80px;
+
+
+}
+
+#tabColor{
+	color: #000;
+	background-color: #ffd900;
+	font-size: 18px;
+	font-family: Georgia;
+}
+
+.mySkills{
+	height: 150px;
+	padding-top: 0px;
+}
+
+#navColor{
+	 background-color:#00ccd6;
+	 color:#00ccd6;
+}
+
+#myImage{
+	border-radius: 50%;
+	max-width: 60%;
+	height: 218px;
+}
+
+.skills-icons{
+	display: inline;
+	float: left;
+	padding: 20px;
+	text-align: center;
+	margin-left: 60px;
+	
+
+	color: #FFD900;
+
+}
+
+
+.skills-icons p{
+	color: black;
+	font-family: Georgia;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#skillsSize{
+	height: 150px;
+}
+
+section.skills {
+    color: #000;
+    background: #00ccd6;
+    height:250px;
+    padding-top: 0px;
+}
+
+.skills{
+	font-weight: bold;
+}
+
+.myPortfolio{
+	color: #000;
+}
+#portfolioColor{
+	 background-color: #00ccd6;
+	 color:  #00ccd6;
+}
+#work-pics{
+	border: 5px solid #FFD900;
+	margin-top: 10px;
+	height: 275px;
+	width: 400px;
+}
+
+#portfolioItems{
+	
+
+}
+
+#link{
+	color:black;
+}
+
+#contactMe{
+	color:black;
+}
+
+#footer1{
+	background-color: #00CCD6;
+}
+
+#subButton {
+	background: #00CCD6;
+}
+
+#subButton:hover{
+	background: #00CCD6;
+
+}
+#icon-picsTwo{
+	color: #FFD900;
+	padding: 15px;
+}
+
+#copy{
+	color: white;
+}
+}
